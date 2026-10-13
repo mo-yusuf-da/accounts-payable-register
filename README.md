@@ -4,7 +4,7 @@
 
 A small Excel accounts payable register that practices the daily steps of invoice processing: logging invoices, checking them, coding expenses, tracking approval and payment, and reporting what is overdue.
 
-![Overdue report](overdue_report.png)
+![Overdue report](images/overdue_report.png)
 
 ## What is inside
 | Sheet | Contents |
